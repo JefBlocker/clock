@@ -1,11 +1,16 @@
+//$font-stack: Helvetica, sans-serif;
+//$background-color: black;
+//$primary-color: white;
+
 body {
   background-color: black;
   font-family: Helvetica, sans-serif;
   color: white;
   font-style: italic;
   font-weight: bold;
-  font-size: 150px;
+  font-size: 150px;  
   text-align: center;
   height: 550px;
-  line-height: 550px;
-  vertical-align: middle; }
+  line-height: 550px; 
+  vertical-align: middle;
+};
