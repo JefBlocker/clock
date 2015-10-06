@@ -1,14 +1,12 @@
-//$font-stack: Helvetica, sans-serif;
-//$background-color: black;
-//$primary-color: white;
+@import url("http://fonts.googleapis.com/css?family=Lobster:100");
 
 body {
   background-color: black;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Lobster', cursive;
   color: white;
   font-style: italic;
   font-weight: bold;
-  font-size: 150px;  
+  font-size: 120px;  
   text-align: center;
   height: 550px;
   line-height: 550px; 
